@@ -12,6 +12,9 @@ ________________________________________________________________________________
 ### RCA-Template-Restfullbooker
 Here is the RCA (Root Cause Analysis) template for the Restful Booker API.
 
+### This is the link for the GitHub docs: 
+https://docs.github.com/en/rest
+
  _____________________________________________________________________________________
 
 # Test Cases
