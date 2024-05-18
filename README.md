@@ -21,10 +21,11 @@ Here is the RCA (Root Cause Analysis) template for the Restful Booker API.
  ### RestFull-Booker-API-Testing-TestCases
  This document provides  test cases for the Restful Booker API, covering functionality, reliability, and security aspects.
 
-### Here is the published report of the API documentation created using Postman, which includes all the test cases:
+### Here is the published  RestFullBooker API documentation created using Postman, which includes all the test cases:
 https://documenter.getpostman.com/view/23880231/2sA3JT4edV#3e38117f-4395-44ad-926a-bc8d00015ce7
 
- 
+### Here is the published  GitHub API documentation created using Postman, which includes all the test cases:
+ https://documenter.getpostman.com/view/23880231/2sA3JT4ehw
  
 _____________________________________________________________________________________
 
