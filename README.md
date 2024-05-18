@@ -26,10 +26,6 @@ https://documenter.getpostman.com/view/23880231/2sA3JT4edV#3e38117f-4395-44ad-92
 
 ### Here is the published  GitHub API documentation created using Postman, which includes all the test cases:
  https://documenter.getpostman.com/view/23880231/2sA3JT4ehw
- 
-_____________________________________________________________________________________
-
-# Test Plan
 
 
 _____________________________________________________________________________________
