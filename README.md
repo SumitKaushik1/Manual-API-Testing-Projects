@@ -16,6 +16,14 @@ Here is the RCA (Root Cause Analysis) template for the Restful Booker API.
 https://docs.github.com/en/rest
 
  _____________________________________________________________________________________
+ 
+
+# Requirement Traceability Matrix
+### RTM template</h4>
+RTM (Requirements Traceability Matrix) template tracks the relationship between requirements 
+and project artifacts for thorough coverage and alignment in software development.
+
+  ____________________________________________________________________________________
 
 # Test Cases
 
