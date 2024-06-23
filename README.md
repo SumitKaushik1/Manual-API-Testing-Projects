@@ -1,5 +1,10 @@
 # Manual-API-Testing-Projects
 
+# Browser Link - Test Report - RestFullBooker
+
+https://sumitkaushik1.github.io/Newman-Report-API-testing-RestFullBooker/
+
+
 # Bug Reports
  
  ### Bug Report Template
