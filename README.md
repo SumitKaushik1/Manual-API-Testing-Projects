@@ -12,7 +12,7 @@
  priority, steps to reproduce, environment, and resolution status.
 
 _____________________________________________________________________________________
-
+<br>
 # Documentation
 ### RCA-Template-Restfullbooker
 Here is the RCA (Root Cause Analysis) template for the Restful Booker API.
