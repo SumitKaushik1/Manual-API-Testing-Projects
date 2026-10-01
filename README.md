@@ -54,4 +54,3 @@ ________________________________________________________________________________
   
   ### Newman-RestFull-Booker-API-Testing
   the test report for the Restful Booker API, generated using Newman.
-<br>
