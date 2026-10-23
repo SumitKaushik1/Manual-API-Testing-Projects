@@ -11,8 +11,7 @@
  A bug report template outlines key details such as issue description, 
  priority, steps to reproduce, environment, and resolution status.
 
-_____________________________________________________________________________________
-<br>
+__________________________________________________________________________________
 # Documentation
 ### RCA-Template-Restfullbooker
 Here is the RCA (Root Cause Analysis) template for the Restful Booker API.
